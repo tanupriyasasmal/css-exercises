@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd-elements {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans" , sans-serif ;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#sample-1 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#sample-2 {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
