@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.bw, .colorful {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-family: 28px;
+}
+
+.bw {
+    color: white;
+    background-color: black;
+}
+
+.colorful {
+    background-color:yellow ;
+}
